@@ -1,0 +1,493 @@
+# depslib dependency file v1.0
+1524733444 source:z:\se1\ahsan\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"Admin.h"
+	"user.h"
+
+1524720024 source:z:\se1\ahsan\receiver.cpp
+	<iostream>
+	"RECEIVER.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1524655283 z:\se1\ahsan\receiver.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1524719847 source:z:\se1\ahsan\sender.cpp
+	<iostream>
+	"sender.h"
+	<string.h>
+
+1524719119 z:\se1\ahsan\sender.h
+	<iostream>
+	<string.h>
+
+1524732668 source:z:\se1\ahsan\admin.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"Admin.h"
+
+1524730441 z:\se1\ahsan\admin.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1524733287 z:\se1\ahsan\user.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1524733311 source:z:\se1\ahsan\user.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"user.h"
+
+1524779468 source:c:\users\syed ahsan\downloads\ahsan\ahsan\admin.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"Admin.h"
+
+1524777241 c:\users\syed ahsan\downloads\ahsan\ahsan\admin.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1524901446 source:c:\users\syed ahsan\downloads\ahsan\ahsan\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"Admin.h"
+	"user.h"
+
+1524780087 c:\users\syed ahsan\downloads\ahsan\ahsan\user.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1524766824 source:c:\users\syed ahsan\downloads\ahsan\ahsan\receiver.cpp
+	<iostream>
+	"RECEIVER.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1524702083 c:\users\syed ahsan\downloads\ahsan\ahsan\receiver.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1524766647 source:c:\users\syed ahsan\downloads\ahsan\ahsan\sender.cpp
+	<iostream>
+	"sender.h"
+	<string.h>
+
+1524765919 c:\users\syed ahsan\downloads\ahsan\ahsan\sender.h
+	<iostream>
+	<string.h>
+
+1524780111 source:c:\users\syed ahsan\downloads\ahsan\ahsan\user.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"user.h"
+
+1525159618 source:d:\ahsan\ahsan\admin.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"Admin.h"
+
+1524998430 d:\ahsan\ahsan\admin.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1525174210 source:d:\ahsan\ahsan\receiver.cpp
+	<iostream>
+	"RECEIVER.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1525173687 d:\ahsan\ahsan\receiver.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1525175194 source:d:\ahsan\ahsan\sender.cpp
+	<iostream>
+	"sender.h"
+	<string.h>
+
+1525175194 d:\ahsan\ahsan\sender.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1524780111 source:d:\ahsan\ahsan\user.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"user.h"
+
+1524780087 d:\ahsan\ahsan\user.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1525176582 source:d:\ahsan\ahsan\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+	"Admin.h"
+	"user.h"
+	"sender.h"
+	"RECEIVER.h"
+	"file.h"
+
+1524930181 source:d:\ahsan\ahsan\file.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+	"user.h"
+	"sender.h"
+	"RECEIVER.h"
+	"file.h"
+
+1524998430 d:\ahsan\ahsan\file.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+
+1525112818 source:c:\users\15026020101\downloads\ahsan\ahsan\admin.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"Admin.h"
+
+1524951630 c:\users\15026020101\downloads\ahsan\ahsan\admin.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1524883381 source:c:\users\15026020101\downloads\ahsan\ahsan\file.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+	"user.h"
+	"sender.h"
+	"RECEIVER.h"
+	"file.h"
+
+1524733287 c:\users\15026020101\downloads\ahsan\ahsan\user.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1525244152 c:\users\15026020101\downloads\ahsan\ahsan\sender.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1525242107 c:\users\15026020101\downloads\ahsan\ahsan\receiver.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1524951630 c:\users\15026020101\downloads\ahsan\ahsan\file.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+
+1525127410 source:c:\users\15026020101\downloads\ahsan\ahsan\receiver.cpp
+	<iostream>
+	"RECEIVER.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1525244124 source:c:\users\15026020101\downloads\ahsan\ahsan\sender.cpp
+	<iostream>
+	"sender.h"
+	<string.h>
+
+1524733311 source:c:\users\15026020101\downloads\ahsan\ahsan\user.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"user.h"
+
+1525244123 source:c:\users\15026020101\downloads\ahsan\ahsan\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+	"Admin.h"
+	"user.h"
+	"sender.h"
+	"RECEIVER.h"
+	"file.h"
+	<cstdlib>
+	<ctime>
+
+1525112818 source:c:\users\15026020101\downloads\ahsan\easypasia\admin.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"Admin.h"
+
+1524951630 c:\users\15026020101\downloads\ahsan\easypasia\admin.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1524883381 source:c:\users\15026020101\downloads\ahsan\easypasia\file.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+	"user.h"
+	"sender.h"
+	"RECEIVER.h"
+	"file.h"
+
+1524733287 c:\users\15026020101\downloads\ahsan\easypasia\user.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1525244152 c:\users\15026020101\downloads\ahsan\easypasia\sender.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1525242107 c:\users\15026020101\downloads\ahsan\easypasia\receiver.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1524951630 c:\users\15026020101\downloads\ahsan\easypasia\file.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+
+1525244317 source:c:\users\15026020101\downloads\ahsan\easypasia\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+	"Admin.h"
+	"user.h"
+	"sender.h"
+	"RECEIVER.h"
+	"file.h"
+	<cstdlib>
+	<ctime>
+
+1525127410 source:c:\users\15026020101\downloads\ahsan\easypasia\receiver.cpp
+	<iostream>
+	"RECEIVER.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1525244124 source:c:\users\15026020101\downloads\ahsan\easypasia\sender.cpp
+	<iostream>
+	"sender.h"
+	<string.h>
+
+1524733311 source:c:\users\15026020101\downloads\ahsan\easypasia\user.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"user.h"
+
+1525112820 source:c:\users\15026020121\downloads\easypasia (1)\easypasia\admin.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"Admin.h"
+
+1524951632 c:\users\15026020121\downloads\easypasia (1)\easypasia\admin.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1524883382 source:c:\users\15026020121\downloads\easypasia (1)\easypasia\file.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+	"user.h"
+	"sender.h"
+	"RECEIVER.h"
+	"file.h"
+
+1524733288 c:\users\15026020121\downloads\easypasia (1)\easypasia\user.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1525244154 c:\users\15026020121\downloads\easypasia (1)\easypasia\sender.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1525327506 c:\users\15026020121\downloads\easypasia (1)\easypasia\receiver.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1524951632 c:\users\15026020121\downloads\easypasia (1)\easypasia\file.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+
+1525329441 source:c:\users\15026020121\downloads\easypasia (1)\easypasia\receiver.cpp
+	<iostream>
+	"RECEIVER.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1525324447 source:c:\users\15026020121\downloads\easypasia (1)\easypasia\sender.cpp
+	<iostream>
+	"sender.h"
+	<string.h>
+
+1524733312 source:c:\users\15026020121\downloads\easypasia (1)\easypasia\user.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"user.h"
+
+1525327515 source:c:\users\15026020121\downloads\easypasia (1)\easypasia\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+	"Admin.h"
+	"user.h"
+	"sender.h"
+	"RECEIVER.h"
+	"file.h"
+	<cstdlib>
+	<ctime>
+
